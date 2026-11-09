@@ -13,6 +13,35 @@ Da mídia original aos seus destinos, cada arquivo sob controle. Software para W
 
 **[Conheça o site oficial →](https://copiax.pages.dev/)**
 
+
+## Telas do software
+
+Capturas da interface **v0.10.0**, com **dados demonstrativos de teste**. A versão disponível para download pode apresentar ajustes. Clique nas imagens para ampliar.
+
+### Backup
+
+Seleção da origem, estratégia e destinos.
+
+![Backup — dados demonstrativos](screenshots/backup.png)
+
+### Jobs e Logs
+
+Progresso por destino e eventos de verificação.
+
+![Jobs e Logs — dados demonstrativos](screenshots/jobs.png)
+
+### Histórico
+
+Consulta de trabalhos, arquivos e resultados registrados.
+
+![Histórico — dados demonstrativos](screenshots/historico.png)
+
+### Verificação
+
+Exemplo demonstrativo de auditoria com divergências e arquivos ausentes.
+
+![Verificação — dados demonstrativos](screenshots/verificacao.png)
+
 ## Downloads para Windows
 
 **[Baixar no site oficial](https://copiax.pages.dev/#downloads)** — instalador, executável e portable.
